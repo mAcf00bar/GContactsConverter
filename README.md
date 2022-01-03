@@ -5,7 +5,7 @@ This app will help in converting an exported contacts *.csv from Gmail to conver
 None so far ;-)
 
 ## Roadmap
-- get to read Gmail csv files
-- read outlook csv format
+- get to read csv files exported from Gmail contacts
+- provide outlook csv format template
 - map gmail to outlook format
-- make input/output files changeable
+- make input/output files select-/changeable
